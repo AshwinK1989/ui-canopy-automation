@@ -65,7 +65,6 @@ public class ManageReportsPage {
     public void logout() {
 
         JsWaiter.waitJQueryAngular();
-        GenericWaitMethods.waitFor(2000);
         GenericBrowserActionMethods.click(driver, ddLogout);
         GenericBrowserActionMethods.click(driver, btnLogout);
 
