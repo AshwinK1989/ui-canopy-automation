@@ -1,0 +1,20 @@
+2017-11-23 17:32:13,363 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2017-11-23 17:32:13,376 INFO o.a.j.JMeter: Loading user properties from: /Users/ashwin/Desktop/apache-jmeter-3.3/bin/user.properties
+2017-11-23 17:32:13,376 INFO o.a.j.JMeter: Loading system properties from: /Users/ashwin/Desktop/apache-jmeter-3.3/bin/system.properties
+2017-11-23 17:32:13,383 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2017-11-23 17:32:13,383 INFO o.a.j.JMeter: Version 3.3 r1808647
+2017-11-23 17:32:13,384 INFO o.a.j.JMeter: java.version=1.8.0_131
+2017-11-23 17:32:13,384 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2017-11-23 17:32:13,384 INFO o.a.j.JMeter: os.name=Mac OS X
+2017-11-23 17:32:13,384 INFO o.a.j.JMeter: os.arch=x86_64
+2017-11-23 17:32:13,384 INFO o.a.j.JMeter: os.version=10.12.6
+2017-11-23 17:32:13,384 INFO o.a.j.JMeter: file.encoding=UTF-8
+2017-11-23 17:32:13,384 INFO o.a.j.JMeter: Max memory     =536870912
+2017-11-23 17:32:13,384 INFO o.a.j.JMeter: Available Processors =4
+2017-11-23 17:32:13,388 INFO o.a.j.JMeter: Default Locale=English (United States)
+2017-11-23 17:32:13,388 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2017-11-23 17:32:13,388 INFO o.a.j.JMeter: JMeterHome=/Users/ashwin/Desktop/apache-jmeter-3.3
+2017-11-23 17:32:13,388 INFO o.a.j.JMeter: user.dir  =/Users/ashwin/work/projects/ui-automation
+2017-11-23 17:32:13,388 INFO o.a.j.JMeter: PWD       =/Users/ashwin/work/projects/ui-automation
+2017-11-23 17:32:18,400 INFO o.a.j.JMeter: IP: 192.168.16.110 Name: Ashwins-MacBook-Pro.local FullName: 192.168.16.110
+2017-11-23 17:32:18,401 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'/Users/ashwin/Desktop/Reports/results'
